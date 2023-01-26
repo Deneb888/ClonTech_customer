@@ -3931,27 +3931,29 @@ namespace Anitoa.Pages
 
                 //csvString += CommData.csvString;
 
-/*                for(int i=0; i<CommData.TdIndex; i++)
-                {
-                    for(int j=0; j<CommData.KsIndex; j++)
-                    {
-                        if (m_cyclenum[i] > 0)
-                        {
-                            csvString += "Well" + (j+1).ToString() +"-Chan" + (i+1).ToString() +  ",";
-                        }
-                        for (int k = 0; k<m_cyclenum[i]; k++)
-                        {
-                            csvString += m_zData[i, j, k].ToString("0.00") + ", ";
-                        }
-                        csvString += "\r\n";
-                    }
-                }
+                /*                for(int i=0; i<CommData.TdIndex; i++)
+                                {
+                                    for(int j=0; j<CommData.KsIndex; j++)
+                                    {
+                                        if (m_cyclenum[i] > 0)
+                                        {
+                                            csvString += "Well" + (j+1).ToString() +"-Chan" + (i+1).ToString() +  ",";
+                                        }
+                                        for (int k = 0; k<m_cyclenum[i]; k++)
+                                        {
+                                            csvString += m_zData[i, j, k].ToString("0.00") + ", ";
+                                        }
+                                        csvString += "\r\n";
+                                    }
+                                }
                 */
 
                 int i, j, k;
 
                 for (i = 0; i < CommData.TdIndex; i++)
                 {
+                    if (m_cyclenum[i] > 0) csvString += "Cycles-Chan" + (i + 1).ToString() + ",";
+
                     for (j = 0; j < CommData.KsIndex; j++)
                     {
                         if (m_cyclenum[i] > 0)
@@ -3967,6 +3969,8 @@ namespace Anitoa.Pages
                 {
                     for (i = 0; i < CommData.TdIndex; i++)
                     {
+                        if (m_cyclenum[i] > 0 && k < m_cyclenum[i]) csvString += k.ToString("0.00") + ", ";
+
                         for (j = 0; j < CommData.KsIndex; j++)
                         {
                             if (m_cyclenum[i] > 0 && k < m_cyclenum[i])
@@ -3983,9 +3987,6 @@ namespace Anitoa.Pages
 
                     csvString += "\r\n";
                 }
-
-
-
 
                 //===========================
 

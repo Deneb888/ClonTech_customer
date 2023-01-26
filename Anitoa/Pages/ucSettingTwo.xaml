@@ -108,7 +108,7 @@
                     <RadioButton Style="{DynamicResource rbButtons}" Name="rbStart" Content="Start"  Width="139" Height="31" Margin="0,0,10,0" VerticalAlignment="Top" Click="RadioButton_Click"></RadioButton>
                     <!--"启动"-->
                     <!--<RadioButton Style="{DynamicResource rbButtons}" Name="rbSave" Content="保存" Width="163" Height="Auto" Margin="10,5,10,0.333" Click="RadioButton_Click"></RadioButton>-->
-                    <RadioButton Style="{DynamicResource rbButtons}" Name="rbMelt" Content="Start Melting Curve" Width="163" Height="31" Margin="10,0,10,0" VerticalAlignment="Top" Click="RadioButton_Click"></RadioButton>
+                    <RadioButton Style="{DynamicResource rbButtons}" Name="rbMelt" Content="Start Melting Curve" Width="163" Height="31" Margin="10,0,10,0" VerticalAlignment="Top" Click="RadioButton_Click" Visibility="Hidden"></RadioButton>
                     <!--"启动熔解曲线"-->
                 </StackPanel>
                 <CheckBox Name ="EnAutoInt" Content="Auto Integration Time" Grid.Column="1" HorizontalAlignment="Left" Margin="10,11,0,0" Grid.Row="3" VerticalAlignment="Top" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked" Visibility="Collapsed"/>
