@@ -1782,24 +1782,30 @@ namespace Anitoa.Pages
 
         private void rbcs_Click(object sender, RoutedEventArgs e)               // This is the refresh button
         {
+            try
+            {
+                CommData.experimentModelData.curfitMinCt = Convert.ToInt32(txtMinCt.Text.ToString());
+                CommData.experimentModelData.curfitStartCycle = Convert.ToInt32(txtStartCycle.Text.ToString());
 
-            CommData.experimentModelData.curfitMinCt = Convert.ToInt32(txtMinCt.Text.ToString());
-            CommData.experimentModelData.curfitStartCycle = Convert.ToInt32(txtStartCycle.Text.ToString());
+                threshold = Convert.ToDouble(txtCtThreshold.Text);
 
-            threshold = Convert.ToDouble(txtCtThreshold.Text);
+                //int minCt = Convert.ToInt32(txtMinCt.Text);
 
-            //int minCt = Convert.ToInt32(txtMinCt.Text);
+                // if (minCt < 5) minCt = 5;
+                // else if (minCt > 25) minCt = 25;
 
-            // if (minCt < 5) minCt = 5;
-            // else if (minCt > 25) minCt = 25;
+                if (threshold < MIN_CT_TH) threshold = MIN_CT_TH;
+                else if (threshold > 50) threshold = 50;
 
-            if (threshold < MIN_CT_TH) threshold = MIN_CT_TH;
-            else if (threshold > 50) threshold = 50;
+                CommData.experimentModelData.curfitCtTh = 0.01 * threshold;
 
-            CommData.experimentModelData.curfitCtTh = 0.01 * threshold;
-
-            ReadCCurveShow();
-            DrawLineNew();
+                ReadCCurveShow();
+                DrawLineNew();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void rbReport_Click(object sender, RoutedEventArgs e)

@@ -286,3 +286,11 @@ D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\G
 D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.csproj.CoreCompileInputs.cache
 D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.dll
 D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Debug\GenericHid.pdb

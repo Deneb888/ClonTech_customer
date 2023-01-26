@@ -541,3 +541,16 @@ D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Deb
 D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.csproj.CopyComplete
 D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.exe
 D:\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.pdb
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\bin\Debug\GenHipApp.exe.config
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\bin\Debug\GenHipApp.exe
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\bin\Debug\GenHipApp.pdb
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\bin\Debug\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\bin\Debug\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\Synoxo.USBHidDevice.FrmMain.resources
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.csproj.CopyComplete
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.exe
+C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\GenHipApp\obj\x86\Debug\GenHipApp.pdb

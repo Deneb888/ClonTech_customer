@@ -64,24 +64,31 @@ namespace Anitoa.Pages
         }
 
         void ucTiaoShiTwo_Unloaded(object sender, RoutedEventArgs e)
-        {          
-            CommData.experimentModelData.gainMode[0] = cboGainChan1.SelectedIndex;
-            CommData.experimentModelData.gainMode[1] = cboGainChan2.SelectedIndex;
-            CommData.experimentModelData.gainMode[2] = cboGainChan3.SelectedIndex;
-            CommData.experimentModelData.gainMode[3] = cboGainChan4.SelectedIndex;
-
-            CommData.experimentModelData.curfitStartCycle = Convert.ToInt32(txtStartCycle.Text.ToString());
-            CommData.experimentModelData.curfitMinCt = Convert.ToInt32(txtMinCt.Text.ToString());
-            CommData.experimentModelData.curfitCtTh = 0.01 * Convert.ToDouble(txtCtTh.Text.ToString());
-
-            CommData.experimentModelData.CbooChan1 = cboChan1.IsChecked.Value;
-            CommData.experimentModelData.CbooChan2 = cboChan2.IsChecked.Value;
-            CommData.experimentModelData.CbooChan3 = cboChan3.IsChecked.Value;
-            CommData.experimentModelData.CbooChan4 = cboChan4.IsChecked.Value;
-
-            if (SetParametersOK != null)
+        {
+            try
             {
-                SetParametersOK("SetParameters", e);                
+                CommData.experimentModelData.gainMode[0] = cboGainChan1.SelectedIndex;
+                CommData.experimentModelData.gainMode[1] = cboGainChan2.SelectedIndex;
+                CommData.experimentModelData.gainMode[2] = cboGainChan3.SelectedIndex;
+                CommData.experimentModelData.gainMode[3] = cboGainChan4.SelectedIndex;
+
+                CommData.experimentModelData.curfitStartCycle = Convert.ToInt32(txtStartCycle.Text.ToString());
+                CommData.experimentModelData.curfitMinCt = Convert.ToInt32(txtMinCt.Text.ToString());
+                CommData.experimentModelData.curfitCtTh = 0.01 * Convert.ToDouble(txtCtTh.Text.ToString());
+
+                CommData.experimentModelData.CbooChan1 = cboChan1.IsChecked.Value;
+                CommData.experimentModelData.CbooChan2 = cboChan2.IsChecked.Value;
+                CommData.experimentModelData.CbooChan3 = cboChan3.IsChecked.Value;
+                CommData.experimentModelData.CbooChan4 = cboChan4.IsChecked.Value;
+
+                if (SetParametersOK != null)
+                {
+                    SetParametersOK("SetParameters", e);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
             }
         }
 

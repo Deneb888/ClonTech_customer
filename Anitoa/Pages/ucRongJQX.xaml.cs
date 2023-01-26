@@ -1009,25 +1009,25 @@ namespace Anitoa.Pages
             }
 
             List<string> tdlist = new List<string>();//定义通道
-            if (CommData.cboChan1 == 1)
+            if (CommData.cboChan1 == 1 || true)
             {
                 tdlist.Add("Chip#1");
             }
-            if (CommData.cboChan2 == 1)
+            if (CommData.cboChan2 == 1 || true)
             {
                 tdlist.Add("Chip#2");
             }
-            if (CommData.cboChan3 == 1)
+            if (CommData.cboChan3 == 1 || true)
             {
                 tdlist.Add("Chip#3");
             }
-            if (CommData.cboChan4 == 1)
+            if (CommData.cboChan4 == 1 || true)
             {
                 tdlist.Add("Chip#4");
             }
 
             double[,] mtemp = new double[MAX_CHAN, MAX_CYCL];
-            int cyclenum = 0;
+            int[] cyclenum = new int[MAX_CHAN];
 
             for (int i = 0; i < tdlist.Count /*CommData.diclist.Count*/; i++)
             {
@@ -1046,7 +1046,7 @@ namespace Anitoa.Pages
                 if (CommData.diclist.Count > 0)
                 {
                     //                    cyclenum = Convert.ToInt32(CommData.diclist[tdlist[i]].Count / CommData.imgFrame);
-                    cyclenum = CommData.GetCycleNum(tdlist[i]);
+                    cyclenum[i] = CommData.GetCycleNum(tdlist[i]);
                 }
             }
 
@@ -1055,7 +1055,7 @@ namespace Anitoa.Pages
 
             for (int n = 0; n < tdlist.Count; n++)
             {
-                m_Size[n] = cyclenum;
+                m_Size[n] = cyclenum[n];
             }
 
             m_cyclenum = m_Size;
