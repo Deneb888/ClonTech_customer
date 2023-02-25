@@ -218,3 +218,10 @@ C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\gener
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\USBHiDLib\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\USBHiDLib\obj\Release\GenericHid.pdb

@@ -301,3 +301,8 @@ C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\gener
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.csproj.CoreCompileInputs.cache
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.dll
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\PolynomialRegression\bin\Release\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\PolynomialRegression\bin\Release\PolynomialRegression.pdb
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.dll
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\PolynomialRegression\obj\Release\PolynomialRegression.pdb

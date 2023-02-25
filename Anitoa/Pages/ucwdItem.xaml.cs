@@ -157,11 +157,11 @@ namespace Anitoa.Pages
 
                 //slider.Value = Convert.ToDouble(txtwd.Text);        
 
-                if (slider.Value < 41 && lockTime)       // this is RJQX
+                if (slider.Value < 42 && lockTime)       // this is RJQX
                 {
-                    MessageBox.Show("Melt temperature cannot be less than 41 °C.");
+                    MessageBox.Show("Melt temperature cannot be less than 42 °C.");
 
-                    slider.Value = 41;
+                    slider.Value = 42;
                 }
             }
             catch (Exception ex)

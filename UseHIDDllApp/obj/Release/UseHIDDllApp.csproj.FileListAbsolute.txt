@@ -421,3 +421,16 @@ C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\gener
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.CopyComplete
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.exe
 C:\Users\zding\Documents\WorkArea\From P1\Clontech\Anitoa10-28-21-ClonTech\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\bin\Release\UseHIDDllApp.exe.config
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\bin\Release\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\bin\Release\UseHIDDllApp.pdb
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\bin\Release\GenericHid.dll
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\bin\Release\GenericHid.pdb
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csprojAssemblyReference.cache
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\Synoxo.USBHidDevice.Form1.resources
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\Synoxo.USBHidDevice.Properties.Resources.resources
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.GenerateResource.cache
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.CoreCompileInputs.cache
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.csproj.CopyComplete
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.exe
+C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\UseHIDDllApp\obj\Release\UseHIDDllApp.pdb
