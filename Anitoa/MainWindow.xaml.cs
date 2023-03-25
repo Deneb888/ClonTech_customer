@@ -2266,9 +2266,12 @@ namespace Anitoa
 
                 ISImgRead();            // Only check during normal run state
 
-                if(CommData.remainTime < -10 && CommData.currCycleNum == currDebugModelData.Cycle)
+                if(CommData.remainTime < -300 && CommData.currCycleNum == currDebugModelData.Cycle)
                 {
                     forceStopFlag = true;
+
+                    string str = "Cycling time out detected.";
+                    DebugLog(str);
                 }
             }
             else if (CommData.currCycleState == 3)

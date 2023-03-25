@@ -622,3 +622,16 @@ C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\gener
 C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.CopyComplete
 C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.exe
 C:\Users\zding\Documents\WorkArea\Clontech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.pdb
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\bin\Release\GenHipApp.exe.config
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\bin\Release\GenHipApp.exe
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\bin\Release\GenHipApp.pdb
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\bin\Release\GenericHid.dll
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\bin\Release\GenericHid.pdb
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csprojAssemblyReference.cache
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\Synoxo.USBHidDevice.FrmMain.resources
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenericHid.Properties.Resources.resources
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.GenerateResource.cache
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.CoreCompileInputs.cache
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.csproj.CopyComplete
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.exe
+C:\Users\ZhiminDing\Documents\WorkArea\ClonTech\Anitoa2-24-23-ClonTech-customer\generic_hid_cs\GenHipApp\obj\x86\Release\GenHipApp.pdb
